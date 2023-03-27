@@ -23,7 +23,7 @@ const { chromium } = require('playwright');
   const currentUrl = await page.url();
 
   // Assert that the URL matches the expected home page URL
-  expect(currentUrl).toBe('https://example.com/home');
+  expect(currentUrl).toBe('yumegel2.github.io/mywebclass-simulation/home');
 
   await browser.close();
 })();
