@@ -52,9 +52,9 @@ Finally, use Playwright to create powerful and reliable automated tests for web 
 - Update your issue templates as pre the requirements of your project.  I have my templates for my own needs; however, you should update them for yours.
 
 ## Table of Contents
-- [Introduction to Career Opportuities made Possible by this Simulation](sprint_1_preface.md)
-- [New Employee Orientation - The Setting of the Simulation](sprint_1_orientation.md)
-- [Project 1 - Sprint 1 - Sprint One - Episode 1](sprint_1.md)
+- [Introduction to Career Opportuities made Possible by this Simulation](sprint_1/sprint_1_preface.md)
+- [New Employee Orientation - The Setting of the Simulation](sprint_1/sprint_1_orientation.md)
+- [Project 1 - Sprint 1 - Sprint One - Episode 1](sprint_1/sprint_1.md)
 
 ## Coming Attractions:
 - Sprint 2 - Designing for Growth
