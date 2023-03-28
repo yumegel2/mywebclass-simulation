@@ -68,7 +68,7 @@ and optimized for search engines. Good luck with your project!
 
 ## Grading Rubric
 
-| Criteria                                 | Excellent (2) | Good (1.5) | Fair (1) | Poor (0.5) | Needs Improvement (0)|
+##| Criteria                                 | Excellent (2) | Good (1.5) | Fair (1) | Poor (0.5) | Needs Improvement (0)|
 |------------------------------------------| --- | --- | --- | --- | ---|
 | Conducting legal research                | Implemented necessary changes, performed testing, and resolved all issues | Implemented necessary changes, performed testing, and resolved most issues | Implemented some necessary changes, performed some testing, and resolved some issues | Implemented few necessary changes, performed little testing, and resolved few issues | Did not conduct legal research or implement necessary changes
 | Internationalization features            | Implemented necessary changes, performed testing, and resolved all issues | Implemented necessary changes, performed testing, and resolved most issues | Implemented some necessary changes, performed some testing, and resolved some issues | Implemented few necessary changes, performed little testing, and resolved few issues | Did not conduct research or implement necessary changes
