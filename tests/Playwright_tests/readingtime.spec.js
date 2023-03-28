@@ -5,7 +5,7 @@ const { chromium } = require('playwright');
   const page = await browser.newPage();
 
   // Navigate to the page you want to test
-  await page.goto('https://example.com');
+  await page.goto('https://localhost:3000/');
 
   // Check if the reading time is displayed on the page
   const readingTime = await page.$('#reading-time');
