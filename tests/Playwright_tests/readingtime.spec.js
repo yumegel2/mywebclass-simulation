@@ -5,7 +5,9 @@ const { chromium } = require('playwright');
   const page = await browser.newPage();
 
   // Navigate to the page you want to test
+
   await page.goto('https://mywebclass.org);
+
 
   // Check if the reading time is displayed on the page
   const readingTime = await page.$('#reading-time');
