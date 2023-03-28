@@ -5,7 +5,7 @@ const { chromium } = require('playwright');
   const page = await browser.newPage();
 
   // Navigate to the page you want to test
-  await page.goto('https://example.com');
+  await page.goto('https://mywebclass.org);
 
   // Click the home button
   const homeButton = await page.$('#home-button');
@@ -23,7 +23,7 @@ const { chromium } = require('playwright');
   const currentUrl = await page.url();
 
   // Assert that the URL matches the expected home page URL
-  expect(currentUrl).toBe('https://example.com/home');
+  expect(currentUrl).toBe('https://mywebclass.org/home');
 
   await browser.close();
 })();
